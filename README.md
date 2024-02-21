@@ -1,7 +1,7 @@
 # Welcome to Creative Fabrica! 🎨👩‍💻
 
 <p align="center">
-  <img src="./logo.png" alt="Creative Fabrica" width="200" height="200" />
+  <img src="./logo.svg" alt="Creative Fabrica" width="200" height="200" />
 </p>
 
 ## 🚀 About Us
