@@ -18,9 +18,9 @@ We're not just a marketplace; we're a hub for creativity—offering inspiration,
 
 ## 🌍 Our Values
 
-- **Empowerment:** We give you the flexibility and freedom to take the initiative.
-- **Excellence:** Join an international team of highly talented and creative individuals.
-- **Ambition:** Be part of our fast-scaling journey, fueled by ambition and innovation.
+- **Empowerment:** We believe in empowering people, giving you the flexibility and freedom to do what's best for the business, take on new challenges and create your own opportunities.
+- **Excellence:** We only hire the best, so you will be joining an international and diverse team of highly talented and creative people.
+- **Ambition:** We're ambitious, this is an opportunity to be part of a fast scaling VC funded start-up, and make your mark.
 
 ## 🎉 Why Join Creative Fabrica?
 
