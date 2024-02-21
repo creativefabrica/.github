@@ -8,7 +8,9 @@
 
 Founded in 2016, Creative Fabrica started as a marketplace for fonts with a subscription service. Over the last 8 years, we've experienced phenomenal growth, and we're just getting started.
 
-Today, we stand proud with 40 million+ monthly page views, over 20 million listed products, and 20,000+ active designers. At Creative Fabrica, we blend our love for art with a passion for handmade crafts and fonts, making art accessible to everyone.
+Today, we stand proud with **40 million+ monthly page views**, over **20 million listed products**, and **20,000+ active designers**. At Creative Fabrica, we blend our love for art with a passion for handmade crafts and fonts, making art accessible to everyone.
+
+We are growing. Fast. **You will help us grow even faster**.
 
 ## 💼 Our Platform
 
